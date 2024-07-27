@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactNativeSVGAnimate.app"
-               BlueprintName = "ReactNativeSVGAnimate"
-               ReferencedContainer = "container:ReactNativeSVGAnimate.xcodeproj">
+               BuildableName = "ReactNativePlayPauseButton.app"
+               BlueprintName = "ReactNativePlayPauseButton"
+               ReferencedContainer = "container:ReactNativePlayPauseButton.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeSVGAnimateTests.xctest"
-               BlueprintName = "ReactNativeSVGAnimateTests"
-               ReferencedContainer = "container:ReactNativeSVGAnimate.xcodeproj">
+               BuildableName = "ReactNativePlayPauseButtonTests.xctest"
+               BlueprintName = "ReactNativePlayPauseButtonTests"
+               ReferencedContainer = "container:ReactNativePlayPauseButton.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeSVGAnimate.app"
-            BlueprintName = "ReactNativeSVGAnimate"
-            ReferencedContainer = "container:ReactNativeSVGAnimate.xcodeproj">
+            BuildableName = "ReactNativePlayPauseButton.app"
+            BlueprintName = "ReactNativePlayPauseButton"
+            ReferencedContainer = "container:ReactNativePlayPauseButton.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeSVGAnimate.app"
-            BlueprintName = "ReactNativeSVGAnimate"
-            ReferencedContainer = "container:ReactNativeSVGAnimate.xcodeproj">
+            BuildableName = "ReactNativePlayPauseButton.app"
+            BlueprintName = "ReactNativePlayPauseButton"
+            ReferencedContainer = "container:ReactNativePlayPauseButton.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
